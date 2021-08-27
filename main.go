@@ -1,1 +1,4 @@
-fun main()
+package main
+
+fun main() {}
+
